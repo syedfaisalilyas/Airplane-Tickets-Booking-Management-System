@@ -69,12 +69,5 @@ We extend our sincere gratitude to Nazeef for his unwavering support and valuabl
 We express our sincere gratitude for his mentorship and commitment to excellence.
 
 
-## Project status
-⚠️ **Project Status: Out of Time**
-
-Due to unforeseen circumstances and time constraints, development and active maintenance of the project have been paused. We appreciate the support and engagement from the community during this development phase.
-
-Thank you for your support!
-
 ---
 
